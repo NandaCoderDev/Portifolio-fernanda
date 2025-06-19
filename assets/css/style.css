@@ -201,7 +201,19 @@ li h2{
     align-content: center;
     max-inline-size: -webkit-fill-available;
     box-shadow: -20px 20px 20px blueviolet;
-}
+     }
+        @media (max-whidt:768px){
+        p{
+            font-size: 12px;
+            }
+        }
+        @media (max-whidth: 480px){
+        p{
+        font-size: 16px;
+        word-break: keep-all;
+        }   
+    }
+
     
     #titulo {
         color:rgb(145, 12, 145);
