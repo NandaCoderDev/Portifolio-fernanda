@@ -232,8 +232,9 @@ li h2{
 
     input, textarea {
         width: 100%;
+        background: #ccc;
       padding: 10px;
-      border: 1px solid #ccc;
+      border: 1px solid #3d3c3c;
       border-radius: 5px;
       box-sizing: border-box;
     }
