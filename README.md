@@ -1,6 +1,7 @@
-# Portfólio Fernanda Marques Raeder Vieira
+# Portfólio Fernanda Marques
 
-Bem-vindo(a) ao meu portfólio! Este projeto foi criado com HTML e CSS puros para apresentar meus principais projetos, habilidades e formas de contato.
+Bem-vindo(a) ao meu portfólio! Este projeto foi criado com HTML e CSS 
+puros para apresentar meus principais projetos, habilidades e formas de contato.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -17,20 +18,11 @@ Bem-vindo(a) ao meu portfólio! Este projeto foi criado com HTML e CSS puros par
 
 ## 📸 Imagens
 
-![](./image/screenshot-home.png)
-> Exemplo de imagem da página inicial
+![Página inicial](./assets/image/screenshot-home.png)
 
 ## 🌐 Link do Portfólio Online
 
-[👉 Ver online no GitHub Pages](https://seunome.github.io/seu-repositorio/)
-
-## 📁 Como Rodar Localmente
-
-```bash
-# Clone este repositório
-git clone https://github.com/NandaCoderDev/portfolio-fernanda.git
-
-# Abra o arquivo index.html no navegador
+[👉 Ver online no GitHub Pages](https://nandacoderdev.github.io/Portifolio-fernanda/)
 
 ## 📫 Contato
 
@@ -42,3 +34,13 @@ git clone https://github.com/NandaCoderDev/portfolio-fernanda.git
 📄 Licença
 Este projeto é de uso pessoal e educacional. Sinta-se livre para visualizar, clonar ou se inspirar.
 © 2025 Fernanda Marques 
+
+## 📁 Como Rodar Localmente
+
+```bash
+# Clone este repositório
+git clone https://github.com/NandaCoderDev/portfolio-fernanda.git ´´´
+
+# Abra o arquivo index.html no navegador
+
+
