@@ -202,19 +202,13 @@ li h2{
     max-inline-size: -webkit-fill-available;
     box-shadow: -20px 20px 20px blueviolet;
      }
-        @media (max-whidt:768px){
-        p{
-            font-size: 12px;
-            }
-        }
-        @media (max-whidth: 480px){
-        p{
-        font-size: 16px;
-        word-break: keep-all;
-        }   
+        @media (max-width: 768px) {
+    /* Regras CSS para telas menores que 768px */
+    .menu {
+        flex-direction: column;
+    }
     }
 
-    
     #titulo {
         color:rgb(145, 12, 145);
         text-align: center;
@@ -297,10 +291,4 @@ li h2{
         border-radius: 5px;
         padding: 5px;
       text-decoration: underline;
-    }
-
-    @media (max-width: 500px) {
-      .container {
-        padding: 1rem;
-      }
     }
