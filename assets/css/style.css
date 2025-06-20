@@ -61,7 +61,7 @@ li h2{
     section img{
         display: inline-block;
         margin: 30px;
-        margin-left: 10%;
+        margin-left: 20%;
         vertical-align: top;
         border-radius: 10px;
         box-shadow: -20px 20px 20px blueviolet;
@@ -190,18 +190,20 @@ li h2{
         }
     /*formulario*/
     .container {
-    display: inline-table;
-    background: #fffa;
-    width: 800px;
-    height: 400px;
-    margin: 20px;
-    margin-left: 20%;
-    padding: 20px;
-    justify-content: center;
-    align-content: center;
-    max-inline-size: -webkit-fill-available;
-    box-shadow: -20px 20px 20px blueviolet;
-     }
+        display: inline-block;
+        background:#fffa;;
+        max-width: 100%;
+        width: 800px;
+        height: 560px;
+        padding: 10px;
+        margin: 10px;
+        margin-left: 20%;
+        vertical-align: top;
+        border-radius: 10px;
+        box-shadow: -20px 20px 20px blueviolet;
+        justify-content: center;
+        max-inline-size: -webkit-fill-available;
+         }
         @media (max-width: 768px) {
     /* Regras CSS para telas menores que 768px */
     .menu {
@@ -212,13 +214,14 @@ li h2{
     #titulo {
         color:rgb(145, 12, 145);
         text-align: center;
-         margin: 2px 3px 8px 3px;
+        margin: 15px;
       
     }
 
     #subtitulo {
         background-color: aliceblue;
         color: #4f07f8;
+        margin: 16px;
         text-align: center;
         border-radius: 5px;
         
@@ -265,8 +268,6 @@ li h2{
     #contato-info {
         background-color: #fffa;
         border-radius: 8px;
-        display: inline-flex;
-        padding: 10px;
         margin: 5px 40px;
         flex-wrap: wrap;
         text-align: center;
