@@ -61,7 +61,7 @@ li h2{
     section img{
         display: inline-block;
         margin: 30px;
-        margin-left: 20%;
+        margin-left: 13%;
         vertical-align: top;
         border-radius: 10px;
         box-shadow: -20px 20px 20px blueviolet;
@@ -191,11 +191,10 @@ li h2{
     /*formulario*/
     .container {
         display: inline-block;
-        background:#fffa;;
+        background:aliceblue;
         max-width: 100%;
         width: 800px;
         height: 560px;
-        padding: 10px;
         margin: 10px;
         margin-left: 20%;
         vertical-align: top;
