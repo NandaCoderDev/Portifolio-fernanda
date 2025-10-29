@@ -200,7 +200,7 @@ div {
   max-inline-size: -webkit-fill-available;
 }
 
-#memory-game .iframe {
+#memory-game iframe {
   margin: 25px;
 }
 /*layout geral*/
